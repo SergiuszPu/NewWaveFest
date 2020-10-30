@@ -8,8 +8,7 @@
     "yarn": "1.22.4"
   },
   "scripts": {
-    "start": "nodemon server.js",
-    "build": "cd client && yarn install && yarn build"
+    "start": "nodemon server.js"
   },
   "dependencies": {
     "cors": "^2.8.5",
